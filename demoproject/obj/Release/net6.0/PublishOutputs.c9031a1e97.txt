@@ -1,0 +1,7 @@
+D:\PracticeProject\demoproject\obj\Release\net6.0\PubTmp\Out\demoproject.exe
+D:\PracticeProject\demoproject\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\PracticeProject\demoproject\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\PracticeProject\demoproject\obj\Release\net6.0\PubTmp\Out\demoproject.dll
+D:\PracticeProject\demoproject\obj\Release\net6.0\PubTmp\Out\demoproject.deps.json
+D:\PracticeProject\demoproject\obj\Release\net6.0\PubTmp\Out\demoproject.runtimeconfig.json
+D:\PracticeProject\demoproject\obj\Release\net6.0\PubTmp\Out\demoproject.pdb
